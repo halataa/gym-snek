@@ -1,6 +1,7 @@
 # gym-snek
 snake game implemented in gym for RL purposes. suitable for stable-baslines3
 ## Some Results
+![](snake.gif)
 - 10x10 grid
 - default sb3 PPO MlpPolicy
 - around 100M steps
